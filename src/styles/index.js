@@ -4,7 +4,9 @@ const styles = {
     background: '#ddd',
     minWidth: '30%',
     boxSizing: 'border-box',
-    padding: '20px', 
+    padding: '20px',
+    margin: '.5rem',
+    borderRadius: '.25rem'
   },
   counterButton: {
     display: 'inline-block',
